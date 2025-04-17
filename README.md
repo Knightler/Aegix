@@ -1,1 +1,1 @@
-<img src="icon/black_sentium_logo.png" alt="Sentium" width="1000">
+<img src="icon/1.png" alt="Aegix" width="1000">
